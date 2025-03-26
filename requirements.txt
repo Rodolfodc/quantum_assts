@@ -1,0 +1,10 @@
+ipykernel
+qiskit
+qiskit-aer
+qiskit-optimization
+qiskit-finance
+matplotlib
+seaborn
+qiskit_ibm_runtime
+pylatexenc
+jupyterlab
